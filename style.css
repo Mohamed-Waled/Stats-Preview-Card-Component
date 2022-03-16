@@ -133,7 +133,7 @@ footer a {
         width: 100%;
         height: 205px;
         background-color: white;
-        background-image: url(/images/image-header-mobile.jpg);
+        background-image: url(https://raw.githubusercontent.com/Mohamed-Waled/Stats-Preview-Card-Component/main/images/image-header-mobile.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
         margin: -10 auto;
