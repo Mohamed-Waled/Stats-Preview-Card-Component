@@ -15,12 +15,12 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![]()
-![]()
+![](https://raw.githubusercontent.com/Mohamed-Waled/Stats-Preview-Card-Component/main/images/Screenshot%202022-03-17%20at%2004-31-55%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Stats-Preview-Card-Component/main/images/Screenshot%202022-03-17%20at%2004-36-24%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
 
 ### Links
 
-- Solution URL: [solution URL here]()
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-css-flexbox-FfDrl91j2)
 - Live Site URL: [live site URL here](https://mohamed-waled.github.io/Stats-Preview-Card-Component/)
 
 ## My process
